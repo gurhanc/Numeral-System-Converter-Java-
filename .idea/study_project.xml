@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="StudySettings">
+    <StudyTaskManager>
+      <option name="VERSION" value="16" />
+      <option name="myUserTests">
+        <map />
+      </option>
+      <option name="course">
+        <HyperskillCourse>
+          <option name="authors">
+            <list />
+          </option>
+          <option name="courseMode" value="Study" />
+          <option name="customPresentableName" />
+          <option name="description" value="We’re all quite used to our good old decimal system of numerals. But let’s not forget that there are countless other ways to count! Whether we convert numbers from one system to another just for fun or to store large data more efficiently, a converter would be helpful. In this project you will create a mathematical helper that will help you convert numbers from system M to system N.&lt;br/&gt;&lt;br/&gt;Learn more at &lt;a href=&quot;https://hyperskill.org&quot;&gt;https://hyperskill.org/projects/41&lt;/a&gt;" />
+          <option name="environment" value="" />
+          <option name="id" value="0" />
+          <option name="index" value="-1" />
+          <option name="language" value="JAVA 11" />
+          <option name="languageCode" value="en" />
+          <option name="name" value="Numeral System Converter (Java)" />
+          <option name="stages">
+            <list>
+              <HyperskillStage>
+                <option name="id" value="214" />
+                <option name="stepId" value="5310" />
+                <option name="title" value="For example" />
+              </HyperskillStage>
+              <HyperskillStage>
+                <option name="id" value="215" />
+                <option name="stepId" value="5311" />
+                <option name="title" value="Almost an octopus" />
+              </HyperskillStage>
+              <HyperskillStage>
+                <option name="id" value="216" />
+                <option name="stepId" value="5312" />
+                <option name="title" value="Convert decimals" />
+              </HyperskillStage>
+              <HyperskillStage>
+                <option name="id" value="217" />
+                <option name="stepId" value="5313" />
+                <option name="title" value="Any which radix" />
+              </HyperskillStage>
+              <HyperskillStage>
+                <option name="id" value="218" />
+                <option name="stepId" value="5314" />
+                <option name="title" value="Converting fractions" />
+              </HyperskillStage>
+              <HyperskillStage>
+                <option name="id" value="219" />
+                <option name="stepId" value="5315" />
+                <option name="title" value="Error!" />
+              </HyperskillStage>
+            </list>
+          </option>
+          <option name="taskToTopics">
+            <map>
+              <entry key="0">
+                <value>
+                  <list>
+                    <HyperskillTopic>
+                      <option name="id" value="362" />
+                      <option name="theoryId" value="5544" />
+                      <option name="title" value="Binary numbers" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="369" />
+                      <option name="theoryId" value="5622" />
+                      <option name="title" value="Converting from binary to decimal" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="370" />
+                      <option name="theoryId" value="5614" />
+                      <option name="title" value="Converting from decimal to binary" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="259" />
+                      <option name="theoryId" value="3805" />
+                      <option name="title" value="IDE" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="15" />
+                      <option name="theoryId" value="3500" />
+                      <option name="title" value="Introduction to Java" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="147" />
+                      <option name="theoryId" value="3522" />
+                      <option name="title" value="Basic literals" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="148" />
+                      <option name="theoryId" value="3521" />
+                      <option name="title" value="The first program" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="193" />
+                      <option name="theoryId" value="3749" />
+                      <option name="title" value="Printing data" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="260" />
+                      <option name="theoryId" value="3801" />
+                      <option name="title" value="IntelliJ IDEA" />
+                    </HyperskillTopic>
+                  </list>
+                </value>
+              </entry>
+              <entry key="1">
+                <value>
+                  <list>
+                    <HyperskillTopic>
+                      <option name="id" value="480" />
+                      <option name="theoryId" value="6577" />
+                      <option name="title" value="Command line overview" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="14" />
+                      <option name="theoryId" value="3518" />
+                      <option name="title" value="Types and variables" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="30" />
+                      <option name="theoryId" value="3520" />
+                      <option name="title" value="Comments" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="112" />
+                      <option name="theoryId" value="3513" />
+                      <option name="title" value="Naming variables" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="146" />
+                      <option name="theoryId" value="3519" />
+                      <option name="title" value="Arithmetic operations" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="191" />
+                      <option name="theoryId" value="3739" />
+                      <option name="title" value="Write, compile and run" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="149" />
+                      <option name="theoryId" value="3499" />
+                      <option name="title" value="JVM, JRE and JDK" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="192" />
+                      <option name="theoryId" value="3746" />
+                      <option name="title" value="Running programs on your computer" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="113" />
+                      <option name="theoryId" value="3603" />
+                      <option name="title" value="Scanning the input" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="27" />
+                      <option name="theoryId" value="3565" />
+                      <option name="title" value="Integer types and operations" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="307" />
+                      <option name="theoryId" value="5008" />
+                      <option name="title" value="Increment and decrement" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="31" />
+                      <option name="theoryId" value="3514" />
+                      <option name="title" value="Characters" />
+                    </HyperskillTopic>
+                  </list>
+                </value>
+              </entry>
+              <entry key="2">
+                <value>
+                  <list>
+                    <HyperskillTopic>
+                      <option name="id" value="87" />
+                      <option name="theoryId" value="3516" />
+                      <option name="title" value="Boolean and logical operations" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="88" />
+                      <option name="theoryId" value="3512" />
+                      <option name="title" value="Relational operators" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="25" />
+                      <option name="theoryId" value="3503" />
+                      <option name="title" value="Conditional statement" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="33" />
+                      <option name="theoryId" value="3504" />
+                      <option name="title" value="Switch statement" />
+                    </HyperskillTopic>
+                  </list>
+                </value>
+              </entry>
+              <entry key="3">
+                <value>
+                  <list>
+                    <HyperskillTopic>
+                      <option name="id" value="309" />
+                      <option name="theoryId" value="5035" />
+                      <option name="title" value="Primitive and reference types" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="4" />
+                      <option name="theoryId" value="3511" />
+                      <option name="title" value="Array" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="9" />
+                      <option name="theoryId" value="3523" />
+                      <option name="title" value="String" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="89" />
+                      <option name="theoryId" value="3505" />
+                      <option name="title" value="The for-loop" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="90" />
+                      <option name="theoryId" value="3498" />
+                      <option name="title" value="The while and do-while loops" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="19" />
+                      <option name="theoryId" value="3507" />
+                      <option name="title" value="Branching statements" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="97" />
+                      <option name="theoryId" value="3602" />
+                      <option name="title" value="Iterating over arrays" />
+                    </HyperskillTopic>
+                  </list>
+                </value>
+              </entry>
+              <entry key="4">
+                <value>
+                  <list>
+                    <HyperskillTopic>
+                      <option name="id" value="117" />
+                      <option name="theoryId" value="3614" />
+                      <option name="title" value="Introduction to OOP" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="36" />
+                      <option name="theoryId" value="3517" />
+                      <option name="title" value="Floating-point types" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="98" />
+                      <option name="theoryId" value="3551" />
+                      <option name="title" value="Processing strings" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="115" />
+                      <option name="theoryId" value="3618" />
+                      <option name="title" value="Defining classes" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="96" />
+                      <option name="theoryId" value="4727" />
+                      <option name="title" value="Objects" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="201" />
+                      <option name="theoryId" value="3812" />
+                      <option name="title" value="StringBuilder" />
+                    </HyperskillTopic>
+                  </list>
+                </value>
+              </entry>
+              <entry key="5">
+                <value>
+                  <list>
+                    <HyperskillTopic>
+                      <option name="id" value="502" />
+                      <option name="theoryId" value="6865" />
+                      <option name="title" value="Units of information" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="60" />
+                      <option name="theoryId" value="3497" />
+                      <option name="title" value="What is an exception" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="59" />
+                      <option name="theoryId" value="3570" />
+                      <option name="title" value="Hierarchy of exceptions" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="65" />
+                      <option name="theoryId" value="3552" />
+                      <option name="title" value="Exception handling" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="161" />
+                      <option name="theoryId" value="3532" />
+                      <option name="title" value="Sizes and ranges" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="32" />
+                      <option name="theoryId" value="3510" />
+                      <option name="title" value="Type casting" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="163" />
+                      <option name="theoryId" value="3536" />
+                      <option name="title" value="Errors in programs" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="94" />
+                      <option name="theoryId" value="3590" />
+                      <option name="title" value="Defining methods" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="7" />
+                      <option name="theoryId" value="3621" />
+                      <option name="title" value="Package" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="17" />
+                      <option name="theoryId" value="3535" />
+                      <option name="title" value="Constructor" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="116" />
+                      <option name="theoryId" value="3495" />
+                      <option name="title" value="Instance methods" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="28" />
+                      <option name="theoryId" value="3589" />
+                      <option name="title" value="Access modifiers" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="24" />
+                      <option name="theoryId" value="3599" />
+                      <option name="title" value="Getters and setters" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="8" />
+                      <option name="theoryId" value="3583" />
+                      <option name="title" value="Inheritance" />
+                    </HyperskillTopic>
+                  </list>
+                </value>
+              </entry>
+            </map>
+          </option>
+          <option name="updateDate" value="0" />
+          <option name="hyperskillProject">
+            <HyperskillProject>
+              <option name="description" value="We’re all quite used to our good old decimal system of numerals. But let’s not forget that there are countless other ways to count! Whether we convert numbers from one system to another just for fun or to store large data more efficiently, a converter would be helpful. In this project you will create a mathematical helper that will help you convert numbers from system M to system N." />
+              <option name="id" value="41" />
+              <option name="ideFiles" value="https://stepik.org/media/attachments/lesson/203894/additional_files.json" />
+              <option name="language" value="java" />
+              <option name="templateBased" value="false" />
+              <option name="title" value="Numeral System Converter (Java)" />
+              <option name="useIde" value="true" />
+            </HyperskillProject>
+          </option>
+          <option name="items">
+            <list>
+              <FrameworkLesson>
+                <option name="currentTaskIndex" value="5" />
+                <option name="customPresentableName" />
+                <option name="id" value="0" />
+                <option name="index" value="1" />
+                <option name="name" value="Numeral System Converter (Java)" />
+                <option name="updateDate" value="0" />
+                <option name="unitId" value="0" />
+                <option name="items">
+                  <list>
+                    <EduTask>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;h2&gt;Description&lt;/h2&gt;&#10;&#10;&lt;p&gt;If you don't know what's a numeral system, take a look at &lt;a href=&quot;https://en.wikipedia.org/wiki/Numeral_system&quot; rel=&quot;nofollow noopener noreferrer&quot; title=&quot;Link: https://en.wikipedia.org/wiki/Numeral_system&quot;&gt;Wikipedia&lt;/a&gt;. Also, you can look at good series of videos &lt;a href=&quot;https://www.youtube.com/watch?v=crSGS1uBSNQ&amp;amp;list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm&amp;amp;index=29&quot; rel=&quot;noopener noreferrer nofollow&quot; title=&quot;Link: https://www.youtube.com/watch?v=crSGS1uBSNQ&amp;amp;list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm&amp;amp;index=29&quot;&gt;here&lt;/a&gt;. This video and some more next in this playlist are explaining various numeral systems and conversation between them.&lt;/p&gt;&#10;&#10;&lt;p&gt;Implement a program that outputs two numbers: the first number is decimal and the second one is binary. The numbers must be equal. You can choose a number you like.&lt;/p&gt;&#10;&#10;&lt;h2&gt;How to submit?&lt;/h2&gt;&#10;&#10;&lt;p&gt;This stage is auto-graded. The grader will check that:&lt;/p&gt;&#10;&#10;&lt;ul&gt;&#10;&#9;&lt;li&gt;you output a single line,&lt;/li&gt;&#10;&#9;&lt;li&gt;there are two numbers,&lt;/li&gt;&#10;&#9;&lt;li&gt;the first number is decimal,&lt;/li&gt;&#10;&#9;&lt;li&gt;the second number is binary (it starts with &lt;code&gt;0b&lt;/code&gt; and contains only &lt;code&gt;0&lt;/code&gt; and &lt;code&gt;1&lt;/code&gt;),&lt;/li&gt;&#10;&#9;&lt;li&gt;the first number is equal to the second one.&lt;/li&gt;&#10;&lt;/ul&gt;&#10;&#10;&lt;p&gt;Notice that you do not need to enter anything into the program, you should print a line prepared in advance.&lt;/p&gt;&#10;&#10;&lt;h2&gt;Output example&lt;/h2&gt;&#10;&#10;&lt;pre&gt;&lt;code&gt;10 = 0b1010&#10;&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;h2&gt;Output example&lt;/h2&gt;&#10;&#10;&lt;pre&gt;&lt;code&gt;2 is equal to 0b10&lt;/code&gt;&lt;/pre&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/projects/41/stages/214/implement" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="5310" />
+                      <option name="index" value="1" />
+                      <option name="name" value="For example" />
+                      <option name="record" value="1" />
+                      <option name="status" value="Solved" />
+                      <option name="files">
+                        <map>
+                          <entry key="src/converter/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/converter/Main.java" />
+                                <option name="text" value="package converter;&#10;&#10;public class Main {&#10;    public static void main(String[] args) {&#10;        System.out.println(&quot;Hello world!&quot;);&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="test/ConverterTest.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/ConverterTest.java" />
+                                <option name="text" value="import converter.Main;&#10;import org.hyperskill.hstest.v5.stage.BaseStageTest;&#10;import org.hyperskill.hstest.v5.testcase.CheckResult;&#10;import org.hyperskill.hstest.v5.testcase.TestCase;&#10;&#10;import java.math.BigInteger;&#10;import java.util.Arrays;&#10;import java.util.List;&#10;import java.util.Set;&#10;import java.util.stream.Collectors;&#10;&#10;class Clue {&#10;    String feedback;&#10;    Clue(String feedback) {&#10;        this.feedback = feedback;&#10;    }&#10;}&#10;&#10;public class ConverterTest extends BaseStageTest&lt;Clue&gt; {&#10;&#10;    public ConverterTest() throws Exception {&#10;        super(Main.class);&#10;    }&#10;&#10;    static final String BINARY_PREFIX = &quot;0b&quot;;&#10;&#10;    @Override&#10;    public List&lt;TestCase&lt;Clue&gt;&gt; generate() {&#10;        return List.of(&#10;            new TestCase&lt;&gt;()&#10;        );&#10;    }&#10;&#10;    @Override&#10;    public CheckResult check(String reply, Clue clue) {&#10;        final String[] lines = reply&#10;            .lines()&#10;            .filter(line -&gt; !line.isEmpty())&#10;            .toArray(String[]::new);&#10;&#10;        if (lines.length != 1) {&#10;            return new CheckResult(&#10;                false,&#10;                String.format(&#10;                    &quot;Your program doesn't print exactly one line. A number of lines found: %d.&quot;,&#10;                    lines.length&#10;                )&#10;            );&#10;        }&#10;&#10;        final Set&lt;String&gt; words = Arrays&#10;            .stream(lines[0].split(&quot; &quot;))&#10;            .filter(word -&gt; !word.isEmpty())&#10;            .collect(Collectors.toSet());&#10;&#10;        final String[] binaries = words&#10;            .stream()&#10;            .filter(word -&gt; word.startsWith(BINARY_PREFIX))&#10;            .map(word -&gt; word.split(BINARY_PREFIX)[1])&#10;            .filter(word -&gt; word.chars().mapToObj(i -&gt; (char) i).allMatch(c -&gt; c == '1' || c == '0'))&#10;            .toArray(String[]::new);&#10;&#10;        if (binaries.length != 1) {&#10;            return new CheckResult(&#10;                false,&#10;                String.format(&#10;                    &quot;Your responsesFromClient doesn't contain exactly one binary. Binaries have been found: %s.&quot;,&#10;                    Arrays.toString(binaries)&#10;                )&#10;            );&#10;        }&#10;&#10;        final String[] numbers = words&#10;            .stream()&#10;            .filter(word -&gt; word.chars().mapToObj(i -&gt; (char) i).allMatch(Character::isDigit))&#10;            .toArray(String[]::new);&#10;&#10;        if (numbers.length != 1) {&#10;            return new CheckResult(&#10;                false,&#10;                String.format(&#10;                    &quot;Your responsesFromClient doesn't contain exactly one number. Numbers have been found: %s.&quot;,&#10;                    Arrays.toString(binaries)&#10;                )&#10;            );&#10;        }&#10;&#10;&#10;        final BigInteger binary = new BigInteger(binaries[0], 2);&#10;        final BigInteger number = new BigInteger(numbers[0], 10);&#10;&#10;        if (!binary.equals(number)) {&#10;            return new CheckResult(&#10;                false,&#10;                String.format(&quot;%s%s != %s&quot;, BINARY_PREFIX, binaries[0], numbers[0])&#10;            );&#10;        }&#10;&#10;        return new CheckResult(true);&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" value="1562382214000" />
+                    </EduTask>
+                    <EduTask>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;h2&gt;Description&lt;/h2&gt;&#10;&#10;&lt;p&gt;What's the last digit of the given number in &lt;a href=&quot;https://en.wikipedia.org/wiki/Radix&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;base&lt;/a&gt; 8? Implement a program that answers to this question!&lt;/p&gt;&#10;&#10;&lt;h2&gt;How to submit?&lt;/h2&gt;&#10;&#10;&lt;p&gt;This stage is auto-graded. The grader will &lt;strong&gt;input a number&lt;/strong&gt; in base 10 and then check that the &lt;strong&gt;last line of your output&lt;/strong&gt; is equal to the right answer.&lt;/p&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/projects/41/stages/215/implement" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="5311" />
+                      <option name="index" value="2" />
+                      <option name="name" value="Almost an octopus" />
+                      <option name="record" value="2" />
+                      <option name="status" value="Solved" />
+                      <option name="files">
+                        <map>
+                          <entry key="test/ConverterTest.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/ConverterTest.java" />
+                                <option name="text" value="import converter.Main;&#10;import org.hyperskill.hstest.v5.stage.BaseStageTest;&#10;import org.hyperskill.hstest.v5.testcase.CheckResult;&#10;import org.hyperskill.hstest.v5.testcase.TestCase;&#10;&#10;import java.util.ArrayList;&#10;import java.util.List;&#10;&#10;class Clue {&#10;&#10;    final String input;&#10;    final String answer;&#10;    final boolean provideAnswer;&#10;&#10;    Clue(final String input, final String answer, final boolean provideAnswer) {&#10;        this.input = input;&#10;        this.answer = answer;&#10;        this.provideAnswer = provideAnswer;&#10;    }&#10;&#10;    Clue(final String input, final String answer) {&#10;        this(input, answer, false);&#10;    }&#10;&#10;    Clue(final String input) {&#10;        this(input, null, false);&#10;    }&#10;}&#10;&#10;&#10;public class ConverterTest extends BaseStageTest&lt;Clue&gt; {&#10;&#10;    public ConverterTest() throws Exception {&#10;        super(Main.class);&#10;    }&#10;&#10;    public static TestCase&lt;Clue&gt; iToTest(final int i, final boolean provideAnswer) {&#10;        final String octal = Integer.toString(i, 8);&#10;        final String octalLast = octal.substring(octal.length() - 1);&#10;        final String input = Integer.toString(i);&#10;&#10;        return new TestCase&lt;Clue&gt;()&#10;            .setAttach(new Clue(input, octalLast, provideAnswer))&#10;            .setInput(input);&#10;    }&#10;&#10;    @Override&#10;    public List&lt;TestCase&lt;Clue&gt;&gt; generate() {&#10;        final List&lt;TestCase&lt;Clue&gt;&gt; tests = new ArrayList&lt;&gt;();&#10;&#10;        /* Tests with a hint: */&#10;        for (int i = 0; i &lt;= 10; ++i) {&#10;            tests.add(iToTest(i, true));&#10;        }&#10;&#10;        /* Tests without a hint: */&#10;        for (int i = 2340; i &lt;= 2350; ++i) {&#10;            tests.add(iToTest(i, false));&#10;        }&#10;&#10;        return tests;&#10;    }&#10;&#10;    @Override&#10;    public CheckResult check(String reply, Clue clue) {&#10;        final String[] lines = reply&#10;            .lines()&#10;            .filter(line -&gt; !line.isEmpty())&#10;            .toArray(String[]::new);&#10;&#10;        if (lines.length == 0) {&#10;            return new CheckResult(&#10;                false,&#10;                &quot;Your program doesn't print any line.&quot;&#10;            );&#10;        }&#10;&#10;        final String answer = lines[lines.length - 1];&#10;&#10;        if (!answer.equals(clue.answer)) {&#10;            if (clue.provideAnswer) {&#10;                return new CheckResult(&#10;                    false,&#10;                    &quot;Your answer is wrong.\n&quot; +&#10;                        &quot;This is a sample test so we give you a hint.\n&quot; +&#10;                        &quot;Input: &quot; + clue.input + &quot;\n&quot; +&#10;                        &quot;Your answer: &quot; + answer + &quot;\n&quot; +&#10;                        &quot;Correct answer: &quot; + clue.answer&#10;                );&#10;            } else {&#10;                return new CheckResult(&#10;                    false,&#10;                    &quot;Your answer is wrong.&quot;&#10;                );&#10;            }&#10;        }&#10;&#10;        return new CheckResult(true);&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/converter/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/converter/Main.java" />
+                                <option name="text" value="package converter;&#10;&#10;public class Main {&#10;    public static void main(String[] args) {&#10;        System.out.println(&quot;Hello world!&quot;);&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" value="1561918109000" />
+                    </EduTask>
+                    <EduTask>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;h2&gt;Description&lt;br&gt;&lt;/h2&gt;&lt;p&gt;Now let's implement a simple converter. It will convert the given decimal number to the given &lt;a href=&quot;https://en.wikipedia.org/wiki/Radix&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;radix&lt;/a&gt;. You should support three radices with prefixes:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;binary (&lt;code&gt;0b&lt;/code&gt;),&lt;/li&gt;&lt;li&gt;octal (&lt;code&gt;0&lt;/code&gt;),&lt;/li&gt;&lt;li&gt;hexadecimal (&lt;code&gt;0x&lt;/code&gt;).&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;To get a string with answer, use &lt;code&gt;Long.toString(sourceNumber, destinationRadix)&lt;/code&gt; expression.&lt;/p&gt;&lt;h2&gt;How to submit?&lt;/h2&gt;&lt;p&gt;This stage is auto-graded. The grader will &lt;strong&gt;input two lines&lt;/strong&gt; (a number and a radix) and then check that the &lt;strong&gt;last line of your output&lt;/strong&gt; is the correct number representation in the given radix (don't forget about the prefix).&lt;/p&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/projects/41/stages/216/implement" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="5312" />
+                      <option name="index" value="3" />
+                      <option name="name" value="Convert decimals" />
+                      <option name="record" value="3" />
+                      <option name="status" value="Solved" />
+                      <option name="files">
+                        <map>
+                          <entry key="test/ConverterTest.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/ConverterTest.java" />
+                                <option name="text" value="import converter.Main;&#10;import org.hyperskill.hstest.v5.stage.BaseStageTest;&#10;import org.hyperskill.hstest.v5.testcase.CheckResult;&#10;import org.hyperskill.hstest.v5.testcase.TestCase;&#10;&#10;import java.util.ArrayList;&#10;import java.util.List;&#10;&#10;class Clue {&#10;    // you can store here any variables you need for test&#10;&#10;    final String input;&#10;    final String answer;&#10;    final boolean provideAnswer;&#10;&#10;    Clue(final String input, final String answer, final boolean provideAnswer) {&#10;        this.input = input;&#10;        this.answer = answer;&#10;        this.provideAnswer = provideAnswer;&#10;    }&#10;&#10;    Clue(final String input, final String answer) {&#10;        this(input, answer, false);&#10;    }&#10;&#10;    Clue(final String input) {&#10;        this(input, null, false);&#10;    }&#10;}&#10;&#10;&#10;public class ConverterTest extends BaseStageTest&lt;Clue&gt; {&#10;&#10;    public ConverterTest() throws Exception {&#10;        super(Main.class);&#10;    }&#10;&#10;    static String prefix(final int base) {&#10;        if (base == 2) {&#10;            return &quot;0b&quot;;&#10;        } else if (base == 8) {&#10;            return &quot;0&quot;;&#10;        } else {&#10;            return &quot;0x&quot;;&#10;        }&#10;    }&#10;&#10;    public static List&lt;TestCase&lt;Clue&gt;&gt; iToTest(final int i, final boolean provideAnswer) {&#10;        final List&lt;TestCase&lt;Clue&gt;&gt; tests = new ArrayList&lt;&gt;();&#10;&#10;        for (final int base : new int[]{16, 8, 2}) {&#10;            final String answer = prefix(base) + Integer.toString(i, base);&#10;            final String input = i + &quot;\n&quot; + base;&#10;&#10;            tests.add(new TestCase&lt;Clue&gt;()&#10;                .setAttach(new Clue(input, answer, provideAnswer))&#10;                .setInput(input)&#10;            );&#10;        }&#10;&#10;        return tests;&#10;    }&#10;&#10;    @Override&#10;    public List&lt;TestCase&lt;Clue&gt;&gt;  generate() {&#10;        final List&lt;TestCase&lt;Clue&gt;&gt; tests = new ArrayList&lt;&gt;();&#10;&#10;        /* Tests with a hint: */&#10;        tests.addAll(iToTest(11, true));&#10;        tests.addAll(iToTest(8, true));&#10;        tests.addAll(iToTest(0, true));&#10;&#10;        /* Tests without a hint: */&#10;        for (int i = 101; i &lt;= 104; ++i) {&#10;            tests.addAll(iToTest(i, true));&#10;        }&#10;&#10;        return tests;&#10;    }&#10;&#10;    @Override&#10;    public CheckResult check(String reply, Clue clue) {&#10;        final String[] lines = reply&#10;            .lines()&#10;            .filter(line -&gt; !line.isEmpty())&#10;            .toArray(String[]::new);&#10;&#10;        if (lines.length == 0) {&#10;            return new CheckResult(&#10;                false,&#10;                &quot;Your program doesn't print any line.&quot;&#10;            );&#10;        }&#10;&#10;        final String answer = lines[lines.length - 1];&#10;&#10;        if (!answer.equals(clue.answer)) {&#10;            if (clue.provideAnswer) {&#10;                return new CheckResult(&#10;                    false,&#10;                    &quot;Your answer is wrong.\n&quot; +&#10;                        &quot;This is a sample test so we give you a hint.\n&quot; +&#10;                        &quot;Input: &quot; + clue.input + &quot;\n&quot; +&#10;                        &quot;Your answer: &quot; + answer + &quot;\n&quot; +&#10;                        &quot;Correct answer: &quot; + clue.answer&#10;                );&#10;            } else {&#10;                return new CheckResult(&#10;                    false,&#10;                    &quot;Your answer is wrong.&quot;&#10;                );&#10;            }&#10;        }&#10;&#10;        return new CheckResult(true);&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/converter/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/converter/Main.java" />
+                                <option name="text" value="package converter;&#10;&#10;public class Main {&#10;    public static void main(String[] args) {&#10;        System.out.println(&quot;Hello world!&quot;);&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" value="1561918110000" />
+                    </EduTask>
+                    <EduTask>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;h2&gt;Description&lt;br&gt;&lt;/h2&gt;&lt;p&gt;Add support for reading the source number in the given radix and conversion it to another given radix.&lt;/p&gt;&lt;p&gt;As there are 26 Latin letters, the maximum radix is 10+26=36. The minimum radix is 1: the number contains a symbol &lt;code&gt;1&lt;/code&gt; [number] times.&lt;/p&gt;&lt;p&gt;To input radix from 2 to 36 use &lt;code&gt;Long.parseLong(sourseNumberString, sourceRadix)&lt;/code&gt; expression.&lt;/p&gt;&lt;p&gt;To input and output radix 1 use a loop.&lt;/p&gt;&lt;h2&gt;How to submit?&lt;/h2&gt;&lt;p&gt;This stage is auto-graded. The grader will &lt;strong&gt;input three lines&lt;/strong&gt;: the source radix, the source number, and the target radix. Then it will check that the &lt;strong&gt;last line of your output&lt;/strong&gt; is the correct number representation in the given radix (don't use prefixes now).&lt;/p&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/projects/41/stages/217/implement" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="5313" />
+                      <option name="index" value="4" />
+                      <option name="name" value="Any which radix" />
+                      <option name="record" value="4" />
+                      <option name="status" value="Failed" />
+                      <option name="files">
+                        <map>
+                          <entry key="test/ConverterTest.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/ConverterTest.java" />
+                                <option name="text" value="import converter.Main;&#10;import org.hyperskill.hstest.v5.stage.BaseStageTest;&#10;import org.hyperskill.hstest.v5.testcase.CheckResult;&#10;import org.hyperskill.hstest.v5.testcase.TestCase;&#10;&#10;import java.util.List;&#10;&#10;class Clue {&#10;&#10;    final String input;&#10;    final String answer;&#10;    final boolean provideAnswer;&#10;&#10;    Clue(final String input, final String answer, final boolean provideAnswer) {&#10;        this.input = input;&#10;        this.answer = answer;&#10;        this.provideAnswer = provideAnswer;&#10;    }&#10;&#10;    Clue(final String input, final String answer) {&#10;        this(input, answer, false);&#10;    }&#10;&#10;    Clue(final String input) {&#10;        this(input, null, false);&#10;    }&#10;}&#10;&#10;&#10;public class ConverterTest extends BaseStageTest&lt;Clue&gt; {&#10;&#10;    public ConverterTest() throws Exception {&#10;        super(Main.class);&#10;    }&#10;&#10;    static TestCase&lt;Clue&gt; testToAnswer(final String input, final String answer, final boolean provideAnswer) {&#10;        return new TestCase&lt;Clue&gt;()&#10;            .setAttach(new Clue(input, answer, provideAnswer))&#10;            .setInput(input);&#10;    }&#10;&#10;    @Override&#10;    public List&lt;TestCase&lt;Clue&gt;&gt; generate() {&#10;        return List.of(&#10;            /* Tests with a hint: */&#10;            testToAnswer(&quot;10\n11\n2\n&quot;, &quot;1011&quot;, true),&#10;            testToAnswer(&quot;1\n11111\n10\n&quot;, &quot;5&quot;, true),&#10;            testToAnswer(&quot;10\n1000\n36\n&quot;, &quot;rs&quot;, true),&#10;            testToAnswer(&quot;21\n4242\n6\n&quot;, &quot;451552&quot;, true),&#10;            testToAnswer(&quot;7\n12\n11\n&quot;, &quot;9&quot;, true),&#10;            testToAnswer(&quot;5\n300\n10\n&quot;, &quot;75&quot;, true),&#10;            testToAnswer(&quot;1\n11111\n5\n&quot;, &quot;10&quot;, true),&#10;            testToAnswer(&quot;10\n4\n1\n&quot;, &quot;1111&quot;, true),&#10;&#10;            /* Tests without a hint: */&#10;            testToAnswer(&quot;10\n12\n2\n&quot;, &quot;1100&quot;, false),&#10;            testToAnswer(&quot;1\n1111111\n10\n&quot;, &quot;7&quot;, false),&#10;            testToAnswer(&quot;10\n1001\n36\n&quot;, &quot;rt&quot;, false),&#10;            testToAnswer(&quot;21\n4243\n6\n&quot;, &quot;451553&quot;, false),&#10;            testToAnswer(&quot;7\n13\n11\n&quot;, &quot;a&quot;, false),&#10;            testToAnswer(&quot;5\n301\n10\n&quot;, &quot;76&quot;, false),&#10;            testToAnswer(&quot;1\n111111\n5\n&quot;, &quot;11&quot;, false),&#10;            testToAnswer(&quot;10\n5\n1\n&quot;, &quot;11111&quot;, false)&#10;        );&#10;    }&#10;&#10;    @Override&#10;    public CheckResult check(String reply, Clue clue) {&#10;        final String[] lines = reply&#10;            .lines()&#10;            .filter(line -&gt; !line.isEmpty())&#10;            .toArray(String[]::new);&#10;&#10;        if (lines.length == 0) {&#10;            return new CheckResult(&#10;                false,&#10;                &quot;Your program doesn't print any line.&quot;&#10;            );&#10;        }&#10;&#10;        final String answer = lines[lines.length - 1];&#10;&#10;        if (!answer.equals(clue.answer)) {&#10;            if (clue.provideAnswer) {&#10;                return new CheckResult(&#10;                    false,&#10;                    &quot;Your answer is wrong.\n&quot; +&#10;                        &quot;This is a sample test so we give you a hint.\n&quot; +&#10;                        &quot;Input: &quot; + clue.input + &quot;\n&quot; +&#10;                        &quot;Your answer: &quot; + answer + &quot;\n&quot; +&#10;                        &quot;Correct answer: &quot; + clue.answer&#10;                );&#10;            } else {&#10;                return new CheckResult(&#10;                    false,&#10;                    &quot;Your answer is wrong.&quot;&#10;                );&#10;            }&#10;        }&#10;&#10;        return new CheckResult(true);&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/converter/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/converter/Main.java" />
+                                <option name="text" value="package converter;&#10;&#10;public class Main {&#10;    public static void main(String[] args) {&#10;        System.out.println(&quot;Hello world!&quot;);&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" value="1561918111000" />
+                    </EduTask>
+                    <EduTask>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;h2&gt;Description&lt;/h2&gt;&#10;&#10;&lt;p&gt;Add support for fractional numbers. If there is a decimal point, use an algorithm to get the fractional answer.&lt;/p&gt;&#10;&#10;&lt;p&gt;You need to round up the result to five decimal places.&lt;/p&gt;&#10;&#10;&lt;h2&gt;Algorithm&lt;/h2&gt;&#10;&#10;&lt;p&gt;You can use the following algorithm.&lt;/p&gt;&#10;&#10;&lt;p&gt;Interpret the source number as a string $\overline{int.frac}_{base}$ and parse integer and fraction independently.&lt;/p&gt;&#10;&#10;&lt;p&gt;Save the integer part as a &lt;code&gt;long&lt;/code&gt; using the standard library.&lt;/p&gt;&#10;&#10;&lt;p&gt;Save the fractional part as a &lt;code&gt;double&lt;/code&gt; using formula like $\frac{f}{{base}^1} + \frac{r}{{base}^2} + \frac{a}{{base}^3} + \frac{c}{{base}^4}$.&lt;/p&gt;&#10;&#10;&lt;p&gt;Of course, you should support numbers of bigger length.&lt;/p&gt;&#10;&#10;&lt;p&gt;To compute symbols of the target number fractional part, multiply it to $targetRadix$ and get fraction symbol-by-symbol. Here is an example:&lt;/p&gt;&#10;&#10;&lt;p&gt;$0.234_{10}$ to base 7.&lt;/p&gt;&#10;&#10;&lt;ol&gt;&#10;&#9;&lt;li&gt;$0.234 \cdot 7 = 1.638$: the first fraction symbol is 1.&lt;/li&gt;&#10;&#9;&lt;li&gt;Remove integer part. $0.638 \cdot 7 = 4.466$: the second fraction symbol is 4.&lt;/li&gt;&#10;&#9;&lt;li&gt;Remove integer part. $0.466 \cdot 7 = 3.262$: the third fraction symbol is 3.&lt;/li&gt;&#10;&#9;&lt;li&gt;The same for the next symbols.&lt;/li&gt;&#10;&lt;/ol&gt;&#10;&#10;&lt;h2&gt;How to submit?&lt;/h2&gt;&#10;&#10;&lt;p&gt;This stage is auto-graded. The grader will &lt;strong&gt;input three lines&lt;/strong&gt;: the source radix, the source number, and the target radix. Then it will check that the &lt;strong&gt;last line of your output&lt;/strong&gt; is the correct number representation in the given radix (don't use prefixes now).&lt;/p&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/projects/41/stages/218/implement" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="5314" />
+                      <option name="index" value="5" />
+                      <option name="name" value="Converting fractions" />
+                      <option name="record" value="5" />
+                      <option name="status" value="Solved" />
+                      <option name="files">
+                        <map>
+                          <entry key="test/ConverterTest.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/ConverterTest.java" />
+                                <option name="text" value="import converter.Main;&#10;import org.hyperskill.hstest.v5.stage.BaseStageTest;&#10;import org.hyperskill.hstest.v5.testcase.CheckResult;&#10;import org.hyperskill.hstest.v5.testcase.TestCase;&#10;&#10;import java.util.List;&#10;&#10;class Clue {&#10;    final String input;&#10;    String answer;&#10;    final boolean provideAnswer;&#10;&#10;    Clue(final String input, final String answer, final boolean provideAnswer) {&#10;        this.input = input;&#10;        this.answer = answer;&#10;        this.provideAnswer = provideAnswer;&#10;    }&#10;&#10;    Clue(final String input, final String answer) {&#10;        this(input, answer, false);&#10;    }&#10;&#10;    Clue(final String input) {&#10;        this(input, null, false);&#10;    }&#10;}&#10;&#10;&#10;public class ConverterTest extends BaseStageTest&lt;Clue&gt; {&#10;&#10;    public ConverterTest() throws Exception {&#10;        super(Main.class);&#10;    }&#10;&#10;    static TestCase&lt;Clue&gt; testToAnswer(final String input, final String answer, final boolean provideAnswer) {&#10;        return new TestCase&lt;Clue&gt;()&#10;            .setAttach(new Clue(input, answer, provideAnswer))&#10;            .setInput(input);&#10;    }&#10;&#10;    @Override&#10;    public List&lt;TestCase&lt;Clue&gt;&gt; generate() {&#10;        return List.of(&#10;            /* Tests with a hint: */&#10;            testToAnswer(&quot;10\n0.234\n7&quot;, &quot;0.14315&quot;, true),&#10;            testToAnswer(&quot;10\n10.234\n7&quot;, &quot;13.14315&quot;, true),&#10;            testToAnswer(&quot;6\n2.555\n1&quot;, &quot;11&quot;, true),&#10;            testToAnswer(&quot;35\naf.xy\n17&quot;, &quot;148.g88a8&quot;, true),&#10;            testToAnswer(&quot;10\n11\n2&quot;, &quot;1011&quot;, true),&#10;            testToAnswer(&quot;16\naaaaa.0\n24&quot;, &quot;22df2.00000&quot;, true),&#10;            testToAnswer(&quot;16\n0.cdefb\n24&quot;, &quot;0.j78da&quot;, true),&#10;            testToAnswer(&quot;16\naaaaa.cdefb\n24&quot;, &quot;22df2.j78da&quot;, true),&#10;&#10;            /* Tests without a hint: */&#10;            testToAnswer(&quot;10\n0.2340\n7&quot;, &quot;0.14315&quot;, false),&#10;            testToAnswer(&quot;10\n10.2340\n7&quot;, &quot;13.14315&quot;, false),&#10;            testToAnswer(&quot;6\n2.5550\n1&quot;, &quot;11&quot;, false),&#10;            testToAnswer(&quot;35\naf.xy0\n17&quot;, &quot;148.g88a8&quot;, false),&#10;            testToAnswer(&quot;10\n12\n2&quot;, &quot;1100&quot;, false),&#10;            testToAnswer(&quot;16\naaaaa.00\n24&quot;, &quot;22df2.00000&quot;, false),&#10;            testToAnswer(&quot;16\n0.cdefb0\n24&quot;, &quot;0.j78da&quot;, false),&#10;            testToAnswer(&quot;16\naaaaa.cdefb0\n24&quot;, &quot;22df2.j78da&quot;, false),&#10;&#10;            /* Tests from previous stage (with a hint): */&#10;            testToAnswer(&quot;10\n11\n2\n&quot;, &quot;1011&quot;, true),&#10;            testToAnswer(&quot;1\n11111\n10\n&quot;, &quot;5&quot;, true),&#10;            testToAnswer(&quot;10\n1000\n36\n&quot;, &quot;rs&quot;, true),&#10;            testToAnswer(&quot;21\n4242\n6\n&quot;, &quot;451552&quot;, true),&#10;            testToAnswer(&quot;7\n12\n11\n&quot;, &quot;9&quot;, true),&#10;            testToAnswer(&quot;5\n300\n10\n&quot;, &quot;75&quot;, true),&#10;            testToAnswer(&quot;1\n11111\n5\n&quot;, &quot;10&quot;, true),&#10;            testToAnswer(&quot;10\n4\n1\n&quot;, &quot;1111&quot;, true),&#10;&#10;            /* Tests from previous stage (without a hint): */&#10;            testToAnswer(&quot;10\n12\n2\n&quot;, &quot;1100&quot;, false),&#10;            testToAnswer(&quot;1\n1111111\n10\n&quot;, &quot;7&quot;, false),&#10;            testToAnswer(&quot;10\n1001\n36\n&quot;, &quot;rt&quot;, false),&#10;            testToAnswer(&quot;21\n4243\n6\n&quot;, &quot;451553&quot;, false),&#10;            testToAnswer(&quot;7\n13\n11\n&quot;, &quot;a&quot;, false),&#10;            testToAnswer(&quot;5\n301\n10\n&quot;, &quot;76&quot;, false),&#10;            testToAnswer(&quot;1\n111111\n5\n&quot;, &quot;11&quot;, false),&#10;            testToAnswer(&quot;10\n5\n1\n&quot;, &quot;11111&quot;, false)&#10;        );&#10;    }&#10;&#10;    @Override&#10;    public CheckResult check(String reply, Clue clue) {&#10;        final String[] lines = reply&#10;            .lines()&#10;            .filter(line -&gt; !line.isEmpty())&#10;            .toArray(String[]::new);&#10;&#10;        if (lines.length == 0) {&#10;            return new CheckResult(&#10;                false,&#10;                &quot;Your program doesn't print any line.&quot;&#10;            );&#10;        }&#10;&#10;        String answer = lines[lines.length - 1];&#10;        answer = answer.replaceAll(&quot;[^\\p{Graph}]&quot;, &quot;&quot;);&#10;        clue.answer = clue.answer.replaceAll(&quot;[^\\p{Graph}]&quot;, &quot;&quot;);&#10;&#10;        answer = removeEndZeros(answer);&#10;        clue.answer = removeEndZeros(clue.answer);&#10;&#10;        if (!answer.equals(clue.answer)) {&#10;            if (clue.provideAnswer) {&#10;                return new CheckResult(&#10;                    false,&#10;                    &quot;Your answer is wrong.\n&quot; +&#10;                        &quot;This is a sample test so we give you a hint.\n&quot; +&#10;                        &quot;Input: &quot; + clue.input + &quot;\n&quot; +&#10;                        &quot;Your answer: &quot; + answer + &quot;\n&quot; +&#10;                        &quot;Correct answer: &quot; + clue.answer&#10;                );&#10;            } else {&#10;                return new CheckResult(&#10;                    false,&#10;                    &quot;Your answer is wrong.&quot;&#10;                );&#10;            }&#10;        }&#10;&#10;        return new CheckResult(true);&#10;    }&#10;&#10;    private String removeEndZeros(String number) {&#10;        if (!number.contains(&quot;.&quot;)) {&#10;            return number;&#10;        }&#10;        while (number.endsWith(&quot;0&quot;)) {&#10;            number = number.substring(0, number.length() - 1);&#10;        }&#10;        if (number.endsWith(&quot;.&quot;)) {&#10;            number = number.substring(0, number.length() - 1);&#10;        }&#10;        return number;&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/converter/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/converter/Main.java" />
+                                <option name="text" value="package converter;&#10;&#10;public class Main {&#10;    public static void main(String[] args) {&#10;        System.out.println(&quot;Hello world!&quot;);&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" value="1561918112000" />
+                    </EduTask>
+                    <EduTask>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;h2&gt;Description&lt;br&gt;&lt;/h2&gt;&lt;p&gt;What if someone enters a wrong radix?&lt;/p&gt;&lt;p&gt;And if the inputted number is impossible in the given radix?&lt;/p&gt;&lt;p&gt;Number is not a number?&lt;/p&gt;&lt;p&gt;Let's handle errors like this. For now you are able to implement this without a &lt;code&gt;try catch&lt;/code&gt; construction. Use the rule: if you can avoid exception-based logic, avoid it!&lt;/p&gt;&lt;p&gt;So implement error messages when the input is wrong to protect your program.&lt;/p&gt;&lt;h2&gt;How to submit?&lt;/h2&gt;&lt;p&gt;This stage is auto-graded. The grader will input some data. Then it will check that the last line of your program output contains &quot;error&quot; word if the input has been wrong.&lt;/p&gt;&lt;p&gt;If the input is correct, your program should behave as in the previous stage.&lt;/p&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/projects/41/stages/219/implement" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="5315" />
+                      <option name="index" value="6" />
+                      <option name="name" value="Error!" />
+                      <option name="record" value="-1" />
+                      <option name="status" value="Solved" />
+                      <option name="files">
+                        <map>
+                          <entry key="test/ConverterTest.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/ConverterTest.java" />
+                                <option name="text" value="import converter.Main;&#10;import org.hyperskill.hstest.v5.stage.BaseStageTest;&#10;import org.hyperskill.hstest.v5.testcase.CheckResult;&#10;import org.hyperskill.hstest.v5.testcase.TestCase;&#10;&#10;import java.util.List;&#10;&#10;class Clue {&#10;    final String input;&#10;    String answer;&#10;    final boolean provideAnswer;&#10;&#10;    Clue(final String input, final String answer, final boolean provideAnswer) {&#10;        this.input = input;&#10;        this.answer = answer;&#10;        this.provideAnswer = provideAnswer;&#10;    }&#10;&#10;    Clue(final String input, final String answer) {&#10;        this(input, answer, false);&#10;    }&#10;&#10;    Clue(final String input) {&#10;        this(input, null, false);&#10;    }&#10;}&#10;&#10;&#10;public class ConverterTest extends BaseStageTest&lt;Clue&gt; {&#10;&#10;    public ConverterTest() throws Exception {&#10;        super(Main.class);&#10;    }&#10;&#10;    static TestCase&lt;Clue&gt; testToAnswer(final String input, final String answer, final boolean provideAnswer) {&#10;        return new TestCase&lt;Clue&gt;()&#10;            .setAttach(new Clue(input, answer, provideAnswer))&#10;            .setInput(input);&#10;    }&#10;&#10;    @Override&#10;    public List&lt;TestCase&lt;Clue&gt;&gt; generate() {&#10;        return List.of(&#10;            /* Tests with a hint: */&#10;            testToAnswer(&quot;a b\n\n\n&quot;, null, true),&#10;            testToAnswer(&quot;11\nabc\n\n&quot;, null, true),&#10;            testToAnswer(&quot;11\n1\ndas\n&quot;, null, true),&#10;            testToAnswer(&quot;0\n1\ndas\n&quot;, null, true),&#10;            testToAnswer(&quot;37\n1\ndas\n&quot;, null, true),&#10;            testToAnswer(&quot;36\n1\n0\n&quot;, null, true),&#10;            testToAnswer(&quot;36\n1\n37\n&quot;, null, true),&#10;&#10;            /* Tests without a hint: */&#10;            testToAnswer(&quot;c\n\n\n&quot;, null, false),&#10;            testToAnswer(&quot;12\nbc\n\n&quot;, null, false),&#10;            testToAnswer(&quot;12\n1\nhf\n&quot;, null, false),&#10;            testToAnswer(&quot;0\n2\nhf\n&quot;, null, false),&#10;            testToAnswer(&quot;37\n2\nhf\n&quot;, null, false),&#10;            testToAnswer(&quot;14\n2\n-1\n&quot;, null, false),&#10;            testToAnswer(&quot;14\n2\n38\n&quot;, null, false),&#10;&#10;            /* Tests from previous stage (with a hint): */&#10;            testToAnswer(&quot;10\n0.234\n7&quot;, &quot;0.14315&quot;, true),&#10;            testToAnswer(&quot;10\n10.234\n7&quot;, &quot;13.14315&quot;, true),&#10;            testToAnswer(&quot;6\n2.555\n1&quot;, &quot;11&quot;, true),&#10;            testToAnswer(&quot;35\naf.xy\n17&quot;, &quot;148.g88a8&quot;, true),&#10;            testToAnswer(&quot;10\n11\n2&quot;, &quot;1011&quot;, true),&#10;            testToAnswer(&quot;16\naaaaa.0\n24&quot;, &quot;22df2.00000&quot;, true),&#10;            testToAnswer(&quot;16\n0.cdefb\n24&quot;, &quot;0.j78da&quot;, true),&#10;            testToAnswer(&quot;16\naaaaa.cdefb\n24&quot;, &quot;22df2.j78da&quot;, true),&#10;&#10;            /* Tests from previous stage (without a hint): */&#10;            testToAnswer(&quot;10\n0.2340\n7&quot;, &quot;0.14315&quot;, false),&#10;            testToAnswer(&quot;10\n10.2340\n7&quot;, &quot;13.14315&quot;, false),&#10;            testToAnswer(&quot;6\n2.5550\n1&quot;, &quot;11&quot;, false),&#10;            testToAnswer(&quot;35\naf.xy0\n17&quot;, &quot;148.g88a8&quot;, false),&#10;            testToAnswer(&quot;10\n12\n2&quot;, &quot;1100&quot;, false),&#10;            testToAnswer(&quot;16\naaaaa.00\n24&quot;, &quot;22df2.00000&quot;, false),&#10;            testToAnswer(&quot;16\n0.cdefb0\n24&quot;, &quot;0.j78da&quot;, false),&#10;            testToAnswer(&quot;16\naaaaa.cdefb0\n24&quot;, &quot;22df2.j78da&quot;, false),&#10;&#10;            /* Tests from previous stage (with a hint): */&#10;            testToAnswer(&quot;10\n11\n2\n&quot;, &quot;1011&quot;, true),&#10;            testToAnswer(&quot;1\n11111\n10\n&quot;, &quot;5&quot;, true),&#10;            testToAnswer(&quot;10\n1000\n36\n&quot;, &quot;rs&quot;, true),&#10;            testToAnswer(&quot;21\n4242\n6\n&quot;, &quot;451552&quot;, true),&#10;            testToAnswer(&quot;7\n12\n11\n&quot;, &quot;9&quot;, true),&#10;            testToAnswer(&quot;5\n300\n10\n&quot;, &quot;75&quot;, true),&#10;            testToAnswer(&quot;1\n11111\n5\n&quot;, &quot;10&quot;, true),&#10;            testToAnswer(&quot;10\n4\n1\n&quot;, &quot;1111&quot;, true),&#10;&#10;            /* Tests from previous stage (without a hint): */&#10;            testToAnswer(&quot;10\n12\n2\n&quot;, &quot;1100&quot;, false),&#10;            testToAnswer(&quot;1\n1111111\n10\n&quot;, &quot;7&quot;, false),&#10;            testToAnswer(&quot;10\n1001\n36\n&quot;, &quot;rt&quot;, false),&#10;            testToAnswer(&quot;21\n4243\n6\n&quot;, &quot;451553&quot;, false),&#10;            testToAnswer(&quot;7\n13\n11\n&quot;, &quot;a&quot;, false),&#10;            testToAnswer(&quot;5\n301\n10\n&quot;, &quot;76&quot;, false),&#10;            testToAnswer(&quot;1\n111111\n5\n&quot;, &quot;11&quot;, false),&#10;            testToAnswer(&quot;10\n5\n1\n&quot;, &quot;11111&quot;, false)&#10;        );&#10;    }&#10;&#10;    @Override&#10;    public CheckResult check(String reply, Clue clue) {&#10;        final String[] lines = reply&#10;            .lines()&#10;            .filter(line -&gt; !line.isEmpty())&#10;            .toArray(String[]::new);&#10;&#10;        if (lines.length == 0) {&#10;            return new CheckResult(&#10;                false,&#10;                &quot;Your program doesn't print any line.&quot;&#10;            );&#10;        }&#10;&#10;        String answer = lines[lines.length - 1];&#10;&#10;        if (clue.answer == null) {&#10;            if (answer.toLowerCase().contains(&quot;error&quot;)) {&#10;                return new CheckResult(true);&#10;            } else if (clue.provideAnswer) {&#10;                return new CheckResult(&#10;                    false,&#10;                    &quot;Your program doesn't say about an error.\n&quot; +&#10;                        &quot;This is a sample test so we give you a hint.\n&quot; +&#10;                        &quot;Input: &quot; + clue.input + &quot;\n&quot; +&#10;                        &quot;Your answer: &quot; + answer&#10;                );&#10;            } else {&#10;                return new CheckResult(&#10;                    false,&#10;                    &quot;Your program doesn't say about an error.&quot;&#10;                );&#10;            }&#10;        }&#10;&#10;        answer = answer.replaceAll(&quot;[^\\p{Graph}]&quot;, &quot;&quot;);&#10;        clue.answer = clue.answer.replaceAll(&quot;[^\\p{Graph}]&quot;, &quot;&quot;);&#10;&#10;        answer = removeEndZeros(answer);&#10;        clue.answer = removeEndZeros(clue.answer);&#10;&#10;        if (!answer.equals(clue.answer)) {&#10;            if (clue.provideAnswer) {&#10;                return new CheckResult(&#10;                    false,&#10;                    &quot;Your program gives a wrong answer when there is no error in the input.\n&quot; +&#10;                        &quot;This is a sample test so we give you a hint.\n&quot; +&#10;                        &quot;Input: &quot; + clue.input + &quot;\n&quot; +&#10;                        &quot;Your answer: &quot; + answer + &quot;\n&quot; +&#10;                        &quot;Correct answer: &quot; + clue.answer&#10;                );&#10;            } else {&#10;                return new CheckResult(&#10;                    false,&#10;                    &quot;Your program gives a wrong answer when there is no error in the input.&quot;&#10;                );&#10;            }&#10;        }&#10;&#10;        return new CheckResult(true);&#10;    }&#10;&#10;    private String removeEndZeros(String number) {&#10;        if (!number.contains(&quot;.&quot;)) {&#10;            return number;&#10;        }&#10;        while (number.endsWith(&quot;0&quot;)) {&#10;            number = number.substring(0, number.length() - 1);&#10;        }&#10;        if (number.endsWith(&quot;.&quot;)) {&#10;            number = number.substring(0, number.length() - 1);&#10;        }&#10;        return number;&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/converter/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="src/converter/Main.java" />
+                                <option name="text" value="package converter;&#10;&#10;public class Main {&#10;    public static void main(String[] args) {&#10;        System.out.println(&quot;Hello world!&quot;);&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" value="1561918113000" />
+                    </EduTask>
+                  </list>
+                </option>
+              </FrameworkLesson>
+            </list>
+          </option>
+        </HyperskillCourse>
+      </option>
+    </StudyTaskManager>
+  </component>
+</project>
